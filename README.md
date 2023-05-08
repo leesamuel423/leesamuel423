@@ -23,6 +23,7 @@ current_projects: [ "Trydent", "RepCode"]
 <h2 align="left">🖊️ Articles:</h2>  
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing in Code: Quality, Efficiency, Success](https://medium.com/@leesamuel423/testing-in-code-quality-efficiency-success-433987f42f82?source=rss-44bf40ec82bb------2)
 <!-- BLOG-POST-LIST:END -->
 
 
