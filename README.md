@@ -50,5 +50,5 @@ current_projects: [ "Trydent", "RepCode"]
   <a href="https://linkedin.com/in/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leesamuel423" height="30" width="40" /></a>
   <a href="https://fb.com/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leesamuel423" height="30" width="40" /></a>
   <a href="https://instagram.com/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leesamuel423" height="30" width="40" /></a>
-  <a href="https://medium.com/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="leesamuel423" height="30" width="40" /></a>
+  <a href="https://medium.com/@leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="leesamuel423" height="30" width="40" /></a>
 </p>
