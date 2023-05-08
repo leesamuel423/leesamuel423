@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:FD746C&height=300&section=header&fontColor=d3d3d3&text=Hello-nl-I'm%20Sam&animation=twinkling&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:FD746C&height=300&section=header&fontColor=d3d3d3&fontSize=40&text=Hello-nl-I'm%20Sam&animation=twinkling&fontSize=90)
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=leesamuel423&label=Profile%20views&color=0e75b6&style=flat" alt="leesamuel423" /> </span>
 
