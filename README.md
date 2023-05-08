@@ -20,6 +20,11 @@ hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"]
 
 current_projects: [ "Trydent", "RepCode"]
 ```
+<h2 align="left">🖊️ Articles:</h2>  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 <h2 align="left">🧰 ToolBox:</h2>
 <p align="left">
