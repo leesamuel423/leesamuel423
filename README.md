@@ -18,7 +18,7 @@ hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"]
 
 current_projects: [ "Trydent", "RepCode"]
 ```
-<h2 align="left">🖊️ Articles:</h2>  
+<p>🖊️ Articles:</h2>  
 
 <!-- BLOG-POST-LIST:START -->
 - [Testing in Code: Quality, Efficiency, Success](https://medium.com/@leesamuel423/testing-in-code-quality-efficiency-success-433987f42f82?source=rss-44bf40ec82bb------2)
@@ -26,7 +26,7 @@ current_projects: [ "Trydent", "RepCode"]
 
 
 <details>
-  <summary><h2 style="display: inline;"><b>🧰 ToolBox:</b></h2></summary>
+  <summary><b>🧰 ToolBox:</b></summary>
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -67,7 +67,7 @@ current_projects: [ "Trydent", "RepCode"]
 </details>
 
 <details>
-  <summary><h2 style="display: inline;"><b>⭐ Connect with me:</b></h2></summary>
+  <summary><b>⭐ Connect with me:</b></summary>
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leesamuel423/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leesamuel423)
