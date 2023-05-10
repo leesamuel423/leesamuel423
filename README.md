@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
-<<<<<<< HEAD
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:FD746C&height=300&section=header&fontColor=d3d3d3&text=welcome%20to%20my%20space&&animation=twinkling&fontSize=70)
 
 <h2>🤓 About Me</h2>  
@@ -69,19 +68,8 @@ current_projects: [ "Trydent", "RepCode"]
 
 <details>
   <summary><h2 style="display: inline;"><b>⭐ Connect with me:</b></h2></summary>
-<<<<<<< HEAD
-  <p align="left">
-  <p align="left">
-  <a href="https://linkedin.com/in/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leesamuel423" height="30" width="40" /></a>
-  <a href="https://fb.com/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leesamuel423" height="30" width="40" /></a>
-  <a href="https://instagram.com/leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leesamuel423" height="30" width="40" /></a>
-  <a href="https://medium.com/@leesamuel423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="leesamuel423" height="30" width="40" /></a>
-  </p>
-</details>
-=======
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leesamuel423/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leesamuel423)
 
 </details>
->>>>>>> e53c3ad (update README)
