@@ -7,7 +7,7 @@
 
 ```yaml
 name: "Samuel Lee"
-location: "Onatario, Canada"
+location: "Ontario, Canada"
 current job: "Founder and Tutor at Lee Academics"
 education: [
   "Codesmith Advanced Immersive Program",
