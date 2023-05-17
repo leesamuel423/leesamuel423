@@ -13,7 +13,7 @@ current job: "Founder and Tutor at Lee Academics",
 education: [
   "Codesmith Advanced Immersive Program",
   "McMaster University Bachelors of Health Sciences Honours"
-]
+],
 currently_learning: ["GraphQL", "Three.js"]
 hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"],
 current_projects: [ "Trydent", "RepCode"]
