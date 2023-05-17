@@ -5,18 +5,19 @@
 
 <h2>🤓 About Me</h2>  
 
-```yaml
-name: "Samuel Lee"
-location: "Ontario, Canada"
-current job: "Founder and Tutor at Lee Academics"
+```js
+{
+name: "Samuel Lee",
+location: "Ontario, Canada",
+current job: "Founder and Tutor at Lee Academics",
 education: [
   "Codesmith Advanced Immersive Program",
   "McMaster University Bachelors of Health Sciences Honours"
 ]
 currently_learning: ["GraphQL", "Three.js"]
-hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"]
-
+hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"],
 current_projects: [ "Trydent", "RepCode"]
+}
 ```
 <p>🖊️ Articles:</h2>  
 
