@@ -9,7 +9,6 @@
 {
   name: "Samuel Lee",
   location: "Ontario, Canada",
-  current job: "Founder and Tutor at Lee Academics",
   education: [
     "Codesmith Advanced Immersive Program",
     "McMaster University Bachelors of Health Sciences Honours"
