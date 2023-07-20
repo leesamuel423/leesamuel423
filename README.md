@@ -15,7 +15,7 @@
   ],
   currently_learning: ["GraphQL", "Three.js"],
   hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"],
-  current_projects: [ "Trydent", "RepCode"]
+  current_project: "Trydent"
 }
 ```
 <p>🖊️ Articles:</h2>  
