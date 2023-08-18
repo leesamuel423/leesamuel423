@@ -13,9 +13,12 @@
     "Codesmith Advanced Immersive Program",
     "McMaster University Bachelors of Health Sciences Honours"
   ],
-  currently_learning: ["GraphQL", "Three.js"],
-  hobbies: ["Football (real football)", "Gaming", "Gym", "Reading"],
-  current_project: "Trydent"
+  interests: [
+    "amateur soccer player with an unhealthy addiction to watching Tottenham disappoint me",
+    "ambitiously training for a marathon in 2024",
+    "LOL and TFT player who stays optimistic despite losing most games",
+    "uses books as melatonin"
+  ]
 }
 ```
 <p>🖊️ Articles:</h2>  
