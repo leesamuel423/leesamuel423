@@ -14,7 +14,7 @@
     "McMaster University Bachelors of Health Sciences Honours"
   ],
   interests: [
-    "amateur soccer player with an unhealthy addiction to watching Tottenham disappoint me",
+    "amateur soccer player with an unhealthy addiction to getting disappointed by Tottenham",
     "ambitiously training for a marathon in 2024",
     "LOL and TFT player who stays optimistic despite losing most games",
     "uses books as melatonin"
