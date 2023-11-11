@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 UPenn MCIT (Class of 2026)  
+🎓 UPenn MCIT (2026)  
 🧬 McMaster Bachelors of Health Sciences (2021)  
 💻 Software Engineer at CS Engineering  
 ✨ You can catch me playing pickup soccer, trying to PR at the gym, or falling asleep with a good book
