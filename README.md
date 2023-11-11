@@ -1,4 +1,4 @@
-### Hi, I'm Sam
+# Hi, I'm Sam
 
 <!--
 Here are some ideas to get you started:
@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 UPenn MCIT (Class of 2026)<br/>
-🧬 McMaster Bachelors of Health Sciences (2021)<br/>
-💻 Software Engineer at CS Engineering<br/>
+🎓 UPenn MCIT (Class of 2026)  
+🧬 McMaster Bachelors of Health Sciences (2021)  
+💻 Software Engineer at CS Engineering  
 ✨ You can catch me playing pickup soccer, trying to PR at the gym, or falling asleep with a good book
 
 
-### Tech Stack
+## Tech Stack
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flate&logo=typescript&logoColor=white">
