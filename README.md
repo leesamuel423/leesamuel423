@@ -1,6 +1,7 @@
 # Hi, I'm Sam
 
 <!--
+https://github.com/Envoy-VC/awesome-badges
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -40,7 +41,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> 
   <img src="https://img.shields.io/badge/-SQL-4DB33D?style=flat&logo=sql&logoColor=white"> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> 
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e"> 
   <img src="https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white">
