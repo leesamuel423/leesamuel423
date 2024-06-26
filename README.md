@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 UPenn MCIT (2026)  
-🧬 McMaster Bachelors of Health Sciences (2021)  
-💻 Software Engineer at CS Engineering  
+🌱 Production Engineering Fellow (MLH) @ Meta  
+💻 University of Pennsylvania Master of Computer Science (2025)  
+🧬 McMaster University Bachelors of Health Sciences (2021)  
 ✨ Send me your favorite VIM macro
 
-
+<!--
 ## Tech Stack
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
@@ -54,5 +54,5 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> 
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white">
 </div>
-
+-->
 
