@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 💻 University of Pennsylvania Master of Computer Science (2025)  
 🧬 McMaster University Bachelors of Health Sciences (2021)  
 ✨ Send me your favorite VIM macro
+🔭 Learning: Linux, Rust
 
 <!--
 ## Tech Stack
