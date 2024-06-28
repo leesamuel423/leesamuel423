@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Production Engineering Fellow (MLH) @ Meta  
+🌱 MLH Production Engineering Fellow @ Meta  
 💻 University of Pennsylvania Master of Computer Science (2025)  
 🧬 McMaster University Bachelors of Health Sciences (2021)  
-✨ Send me your favorite VIM macro
+✨ Send me your favorite VIM macro  
 🔭 Learning: Linux, Rust
 
 <!--
