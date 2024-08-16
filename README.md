@@ -1,4 +1,4 @@
-# Hi, I'm Sam
+# hi, it's sam
 
 <!--
 https://github.com/Envoy-VC/awesome-badges
@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 production engineer fellow @ meta  
+⚡ software engineer @ cs engineering  
+💻 university of pennsylvania master of computer science (2025)  
+🧬 mcmaster university bachelors of health sciences honours (2021)  
+🔭 learning: linux, rust  
 
-🌱 MLH Production Engineering Fellow @ Meta  
-💻 University of Pennsylvania Master of Computer Science (2025)  
-🧬 McMaster University Bachelors of Health Sciences (2021)  
-✨ Send me your favorite VIM macro  
-🔭 Learning: Linux, Rust
-
+✨ send me your favorite vim macro  
+🐔 why did the chicken cross the road? .... [answer](https://www.youtube.com/watch?v=NeOhV4zOxJ4)
 <!--
 ## Tech Stack
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
