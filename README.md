@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ⚡ software engineer @ cs engineering  
 💻 university of pennsylvania master of computer science (2025)  
 🧬 mcmaster university bachelors of health sciences honours (2021)  
-🔭 learning: linux, rust  
+🔭 learning: linux, c++  
 
-✨ send me your favorite vim macro  
-🐔 why did the chicken cross the road? .... [answer](https://www.youtube.com/watch?v=NeOhV4zOxJ4)
+✨ send me your favorite vim shortcut  
+🐔 why did the chicken cross the road? .... [🎵](https://www.youtube.com/watch?v=NeOhV4zOxJ4)
 <!--
 ## Tech Stack
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
