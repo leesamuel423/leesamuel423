@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-🌱 production engineer fellow @ meta  
-⚡ software engineer @ cs engineering  
+-->  
+⚡ full stack software engineer  
 💻 university of pennsylvania master of computer science (2025)  
 🧬 mcmaster university bachelors of health sciences honours (2021)  
-🔭 learning: linux, c++  
+🧰 working on: alki  
+🔭 learning: go  
 
 ✨ send me your favorite vim shortcut  
 🐔 why did the chicken cross the road? .... [🎵](https://www.youtube.com/watch?v=NeOhV4zOxJ4)
