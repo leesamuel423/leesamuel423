@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ✨ send me your favorite vim shortcut  
 🐔 why did the chicken cross the road? .... [🎵](https://www.youtube.com/watch?v=NeOhV4zOxJ4)
+
+## My Strava Activity
+  <!-- STRAVA-HEATMAP-START -->
+  <!-- STRAVA-HEATMAP-END -->
 <!--
 ## Tech Stack
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
