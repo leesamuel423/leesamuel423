@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ## My Strava Activity
   <!-- STRAVA-HEATMAP-START -->
 
-
 <svg width="421" height="719" viewBox="0 0 421 719" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0, 0)"><style>
   .heatmap-cell { rx: 2; }
   .heatmap-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10px; fill: #767676; }
@@ -557,7 +556,6 @@ Total elevation: 17 m</title></rect><g class="heatmap-tooltip" transform="transl
     .stats-unit { fill: #8b949e; }
   }
 </style><rect x="0" y="0" width="300" height="200" class="stats-panel" /><text x="15" y="30" class="stats-title">Activity Summary</text><text x="15" y="60" class="stats-label">Total Activities</text><text x="150" y="60" class="stats-value">168</text><text x="15" y="85" class="stats-label">Total Distance</text><text x="150" y="85" class="stats-value">1215.6</text><text x="185" y="85" class="stats-unit">km</text><text x="15" y="110" class="stats-label">Total Duration</text><text x="150" y="110" class="stats-value">42</text><text x="170" y="110" class="stats-unit">hours</text><text x="15" y="135" class="stats-label">Active Days</text><text x="150" y="135" class="stats-value">156</text><text x="15" y="160" class="stats-label">Longest Streak</text><text x="150" y="160" class="stats-value">7</text><text x="170" y="160" class="stats-unit">days</text><text x="15" y="185" class="stats-label">Personal Records</text><text x="150" y="185" class="stats-value">39</text></g></svg>
-
 
   <!-- STRAVA-HEATMAP-END -->
 <!--
