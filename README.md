@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 ⚡ full stack software engineer  
-💻 university of pennsylvania master of computer science (2025)  
-🧬 mcmaster university bachelors of health sciences honours (2021)  
-🧰 working on: alki  
+💻 university of pennsylvania masters of computer science  
+🧠 working on: alki  
 🔭 learning: go  
 
 ✨ send me your favorite vim shortcut  
