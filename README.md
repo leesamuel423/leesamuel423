@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 #### Strava Activity (keep me accountable)
   <!-- STRAVA-HEATMAP-START -->
 
-<!--
 ![Strava Activity Heatmap](./assets/strava-heatmap.png)
 
   <!-- STRAVA-HEATMAP-END -->
