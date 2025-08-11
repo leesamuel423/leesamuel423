@@ -20,14 +20,6 @@ Here are some ideas to get you started:
 
 ✨ send me your favorite vim shortcut  
 🐔 why did the chicken cross the road? .... [🎵](https://www.youtube.com/watch?v=NeOhV4zOxJ4)
-
-<!--
-#### Strava Activity (keep me accountable)
-  <!-- STRAVA-HEATMAP-START -->
-
-![Strava Activity Heatmap](./assets/strava-heatmap.png)
-
-  <!-- STRAVA-HEATMAP-END -->
   
 <!--
 ## Tech Stack
